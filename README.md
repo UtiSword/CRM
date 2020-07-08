@@ -1,2 +1,4 @@
-# JavaEE
-Some projects about JavaEE
+# CRM
+Design and Implementation of Customer Relationship Management System Based on SSM 
+ 
+ 
